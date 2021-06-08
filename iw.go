@@ -1,8 +1,6 @@
 package wireless
 
-// #cgo LDFLAGS: -liw
-// #include <iwlib.h>
-// #include <stdlib.h>
+
 import "C"
 
 import (
